@@ -13,7 +13,7 @@ This project explores **Fruit sales analysis in Belgium,Nederland,France**, help
 - Aggregate Measures
 
 ## Dashboard Preview
-![dashboard](https://github.com/YashaswiniBaglakadi/Fruit-Sales/tree/cc0a9825c91fe716f85460aef56921fb4227176a/Dashboard)
+![dashboard](https://github.com/YashaswiniBaglakadi/Fruit-Sales/blob/39191593131083ed081473f0f3261eac77870bdd/Dashboard/Friuts%20sales%20dashboard.png)
 
 ## Files
 - Friut sales -Excel,twbx(tableau public)
